@@ -34,7 +34,11 @@ student["income"] = student["income"] + 7000;
 student.income = student["income"] + 8000;
 
 // console.log(student["income"]);
-console.log(student.income);
+// console.log(student.income);
+
+
+// CLASS TWO OPERATORS & CONDITIONAL STATEMENTS
+
 
 
 
